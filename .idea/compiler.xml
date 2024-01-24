@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learn-spring-boot" />
+        <module name="restful-web-services (1)" />
+        <module name="01-hello-world" />
+        <module name="restful-web-services" />
+        <module name="learn-maven" />
+        <module name="learn-jpa-and-hibernate" />
+        <module name="learn-spring-framework-02" />
+        <module name="myfirstwebapp" />
+        <module name="03-rest-api-full-stack-h2" />
+        <module name="hello-world-java" />
+        <module name="02-rest-api-mysql" />
+        <module name="mockito-demo" />
+        <module name="learn-spring-framework-01" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-hello-world" options="-parameters" />
+      <module name="02-rest-api-mysql" options="-parameters" />
+      <module name="03-rest-api-full-stack-h2" options="-parameters" />
+      <module name="hello-world-java" options="-parameters" />
+      <module name="learn-jpa-and-hibernate" options="-parameters" />
+      <module name="learn-maven" options="-parameters" />
+      <module name="learn-spring-boot" options="-parameters" />
+      <module name="learn-spring-framework-01" options="-parameters" />
+      <module name="learn-spring-framework-02" options="-parameters" />
+      <module name="mockito-demo" options="-parameters" />
+      <module name="myfirstwebapp" options="-parameters" />
+      <module name="restful-web-services" options="-parameters" />
+      <module name="restful-web-services (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

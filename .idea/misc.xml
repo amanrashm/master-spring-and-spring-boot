@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/91-aws/02-rest-api-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/91-aws/01-hello-world-java/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/91-aws/03-rest-api-full-stack-h2/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/81-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/01-spring/learn-spring-framework-01/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/01-spring/learn-spring-framework-02/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/83-docker/hello-world-java/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/52-mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/12-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/02-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/13-full-stack/02-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/11-web-application/pom.xml" />
+        <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/03-jpa-getting-started/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

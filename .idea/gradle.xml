@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/master-spring-and-spring-boot-main/71-spring-security" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/71-spring-security" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/master-spring-and-spring-boot-main/72-oauth" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/72-oauth" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/master-spring-and-spring-boot-main/73-spring-aop" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/73-spring-aop" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/master-spring-and-spring-boot-main/82-gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/master-spring-and-spring-boot-main/82-gradle" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
